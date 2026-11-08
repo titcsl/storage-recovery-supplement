@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+*.pdf
+*.tex
+*.cls
+*.sty
+*.bib
+*.bst
+*.aux
+*.log
+*.fdb_latexmk
+*.fls
